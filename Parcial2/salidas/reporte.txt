@@ -1,0 +1,13 @@
+----------------------------------------
+Numero de cuenta: 12345, Saldo: 1000
+Retirando 1000 de la cuenta.
+Saldo restante: 0
+----------------------------------------
+Numero de cuenta: 67890, Saldo: 1500
+No hay suficiente saldo para retirar 2000
+bloqueando cuenta...
+Saldo restante: 1500
+----------------------------------------
+Numero de cuenta: 54321, Saldo: 5000
+Retirando 3000 de la cuenta.
+Saldo restante: 2000

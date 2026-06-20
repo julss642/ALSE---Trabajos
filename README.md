@@ -1,27 +1,2 @@
-# Leydi Juliana Solorza Gonzalez
-- **Tarea 1** 
-    - **Ejercicios Obligatorios**
-        - *Ejercicio 2.2 ->* [Ejercicio 2.2](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/Tarea1/Ejercicio2.cpp)
-        - *Ejercicio 4.1 ->* [Ejercicio 4.1](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/Tarea1/Ejercicio4.cpp)
-        - *Ejercicio 9 ->* [Ejercicio 9](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/Tarea1/Ejercicio9.cpp)
-
-    - **Ejercicios Opcionales**
-        - *Ejercicio 1.1 ->* [Tarea 1.1](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/Tarea1/Ejercicio1.cpp)
------------------------------------------------------------------------------------------------------
-- **Tarea 2** 
-    - *Calculadora ->* [Calculadora](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/Tarea2/Calculadora.cpp)
----------------------------------------------------------------------------------------------------
-- **Parcial 1** 
-    - *Punto 4 ->* [Punto 4](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/Parcial1/Parcial4.cpp)
----------------------------------------------------------------------------------------------------
-- **Ejercicios LeetCode**
-    - *1. Two Sum ->* [Two Sum](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/LeetCode/TwoSum.cpp)
-    - *415. Add Strings ->* [Add Strings](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/LeetCode/AddStrings.cpp)
-    - *Valid Sudoku ->* [Valid Sudoku](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/LeetCode/Sudoku.cpp)
-    - *1603. Design Parking System ->* [Design Parking Sistem](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/LeetCode/DesignParking.cpp)
-    - *705. Design HashSet ->* [Design HashSet](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/LeetCode/HashSet.cpp)
-    - *355. Design Twitter ->* [Design Twitter](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/LeetCode/DesignTwitter.cpp)
------------------------------------------------------------------------------------------------------------
-- **Clase Point2d ->** [Clase Point2d](https://github.com/julss642/Entrega-1-ejercicios-ALSE/tree/main/ClasePoint2d)
--------------------------------------------------------------------------------------------------------------------
-- **Tarea STL ->** [Tarea STL](https://github.com/julss642/Entrega-1-ejercicios-ALSE/blob/main/TareaSTL/ejemplosSTL.cpp)
+# Parciales
+- **Parcial 2 ->** [Punto 4](https://github.com/julss642/Parciales-/tree/main/Parcial2)
