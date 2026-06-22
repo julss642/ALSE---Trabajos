@@ -1,6 +1,6 @@
 # EJERCICIOS
-- **Tarea 1 ->** [Tarea](https://github.com/julss642/ALSE---Trabajos/tree/main/Tarea1)
-- **Tarea 2 ->** [Tarea](https://github.com/julss642/ALSE---Trabajos/tree/main/Tarea2)
+- **Tarea 1 ->** [Ejercicios 1 - 2 - 4 - 9](https://github.com/julss642/ALSE---Trabajos/tree/main/Tarea1)
+- **Tarea 2 ->** [Calculadora](https://github.com/julss642/ALSE---Trabajos/tree/main/Tarea2)
 - **Tarea 3 ->** [Tarea STL](https://github.com/julss642/ALSE---Trabajos/tree/main/TareaSTL)
 - **Tarea 4 ->** [Tarea UML](https://github.com/julss642/ALSE---Trabajos/tree/main/EjercicioUML)
 - **Tarea 5 ->** [Clase Point 2d](https://github.com/julss642/ALSE---Trabajos/tree/main/ClasePoint2d)
